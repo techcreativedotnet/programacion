@@ -9,10 +9,10 @@ Pues bien, en esta tarea tendrás como objetivo realizar las operaciones necesar
 
 ###### Apartado A:
 Descarga desde la web recomendada en los contenidos, Java SE e instálalo en tu equipo. Recuerda que puedes descargar el OracleJDK u OpenJDK. Se recomienda utilizar una versión posterior a la 11 LTS.
-Siguiendo las indicaciones dadas para configurar las variables PATH y CLASSPATH, lleva a cabo la configuración de las mismas.
+Siguiendo las indicaciones dadas para configurar las variables **PATH** y **CLASSPATH**, lleva a cabo la configuración de las mismas.
 Comprueba a través de consola de comandos, que has realizado correctamente la instalación y configuración del JDK y JRE.
 Crea una carpeta en tu equipo para alojar los ejercicios y programas que se irán generando en cada una de las actividades que se planteen en las unidades de trabajo. Te recomendamos que el nombre de esta carpeta sea sencillo, sin espacios en blanco (puedes sustituirlos por guiones bajos), ni caracteres especiales. Por ejemplo: Ejercicios_Java.
-En dicha carpeta, crea utilizando algún editor de texto un archivo con extensión “.java” al que debes llamar PROG01_programa1.java. En su interior, basándote en el ejercicio resuelto de la unidad, inserta las líneas necesarias de código Java para obtener por pantalla el siguiente resultado (las partes en negrita deben ser sustituidas por tus datos):
+En dicha carpeta, crea utilizando algún editor de texto un archivo con extensión “.java” al que debes llamar **PROG01_programa1.java**. En su interior, basándote en el ejercicio resuelto de la unidad, inserta las líneas necesarias de código Java para obtener por pantalla el siguiente resultado (las partes en negrita deben ser sustituidas por tus datos):
 
 Módulo Profesional - PROGRAMACIÓN. UNIDAD DE TRABAJO 01
 Introducción a la programación
