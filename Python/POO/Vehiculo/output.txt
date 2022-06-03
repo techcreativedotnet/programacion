@@ -1,0 +1,114 @@
+D:\python>python3 principal.py
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
+Introduce un numero entero: 1
+
+--- NUEVO VEHÍCLO ---
+Introduce la marca del vehículo: Renault
+Introduce la matrícula del vehículo: 12348GHU
+Introduce la descripción del vehículo: Renault Space Monovolumen 2 puertas
+Introduce el número de kilómetros del vehículo: 1239.78
+Introduce el precio del vehículo: 8975
+Introduce el propietario del vehículo: Tito Bluni
+Introduce el dni propietario del vehículo: 34823025J
+Introduce el dia de matriculacion: 9
+Introduce el mes de matriculacion: 10
+Introduce el año de matriculacion: 2021
+Fecha de matriculación validado con éxito
+DNI validado con éxito
+El vehículo ha sido creado
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
+Introduce un numero entero: 2
+
+--- VER MATRÍCULA ---
+La matrícula del Vehículo es: 12348GHU
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
+Introduce un numero entero: 3
+
+--- VER KILÓMETROS ---
+El número de kilómtros del Vehículo es: 1239.78
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
+Introduce un numero entero: 5
+
+--- VER AÑOS DE ANTIGÜEDAD ---
+El Vehículo tiene es: 0 años
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
+Introduce un numero entero: 6
+
+--- MOSTRAR PROPIETARIO ---
+El propietario del Vehículo es: Tito Bluni, con DNI: 34823025J
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
+Introduce un numero entero: 7
+
+--- MOSTRAR DESCRIPCIÓN ---
+La descripción del Vehículo con Nº Matricula: 12348GHU es: Renault Space Monovolumen 2 puertas
+
+GESTIÓN DE VEHÍCULO
+1. Nuevo Vehículo
+2. Ver Matrícula
+3. Ver Kilómetros
+4. Actualizar Kilómetros
+5. Ver años de antigüedad
+6. Mostrar Propietario
+7. Mostrar Descripción
+8. Mostrar Precio
+9. Salir
