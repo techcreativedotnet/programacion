@@ -212,9 +212,9 @@ if __name__ == '__main__':
     #En principio la referencia al Vehículo apuntará a null.
     objVehiculo = None
 
-    #Descomentar las siguientes 4 líneas para Test y evitar introducir datos nuevo vehículo desde consola
-    #objVehiculo = Vehiculo('Mercedes', '0718DHV', 180000, '31/12/2003', 'Mercedes clase C220', 25000, 'Salim Tieb', '45300996N')
-    #objAuto = Auto('Turismo', 'Renault', '12348GHU', 1239.78, '09/10/2021', 'Renault Space Monovolumen 2 puertas', 8975, 'Tito Bluni', '45320201N')
+    #Descomentar las siguientes 4 líneas para Test y evitar introducir uno a uno los datos de un nuevo vehículo desde consola
+    #objVehiculo = Vehiculo('Mercedes', '0718DHV', 180000, '31/12/2003', 'Mercedes clase C220', 25000, 'Salim Tieb', '12608285F')
+    #objAuto = Auto('Turismo', 'Renault', '12348GHU', 1239.78, '09/10/2021', 'Renault Space Monovolumen 2 puertas', 8975, 'Tito Bluni', '34823025J')
     #print(objAuto)
     #print(objVehiculo)
 
