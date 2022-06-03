@@ -42,9 +42,9 @@
 
 ### En la clase Principal crear un objeto Auto que haga por ejemplo:
 
-objVehiculo = Vehiculo('Mercedes', '0718DHV', 180000, '31/12/2003', 'Mercedes clase C220', 25000, 'Salim Tieb', '45300996N')
+objVehiculo = Vehiculo('Mercedes', '0718DHV', 180000, '31/12/2003', 'Mercedes clase C220', 25000, 'Salim Tieb', '12608285F')
 
-objAuto = Auto('Turismo', 'Renault', '12348GHU', 1239.78, '09/10/2021', 'Renault Space Monovolumen 2 puertas', 8975, 'Tito Bluni', '45320201N')
+objAuto = Auto('Turismo', 'Renault', '12348GHU', 1239.78, '09/10/2021', 'Renault Space Monovolumen 2 puertas', 8975, 'Tito Bluni', '34823025J')
 
 print(objVehiculo)  # invocará el métod __str__() del clase hija
 
